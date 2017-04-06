@@ -34,9 +34,3 @@ composer require demmonico/yii2-contact
 ```php
 php ./yii migrate/up --migrationPath=@vendor/demmonico/yii2-contact/src/migrations
 ```
-
-
-
-
-###Multiton
-Class Multiton. Parent for create own simple multiton
